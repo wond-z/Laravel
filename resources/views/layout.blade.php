@@ -90,8 +90,8 @@
 
     <script type="text/javascript" src='//code.jquery.com/jquery-1.10.2.min.js'></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="http://localhost:52/js/expanding.js"></script>
-    <script type="text/javascript" src="http://localhost:52/js/starrr.js"></script>
+    <script type="text/javascript" src="../js/expanding.js"></script>
+    <script type="text/javascript" src="../js/starrr.js"></script>
     @yield('scripts')
 
 </body>
